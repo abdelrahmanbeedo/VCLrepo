@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class SphereMovement : MonoBehaviour
+public class PlayerController : MonoBehaviour
 {
     public float speed = 10f;   // Movement speed
 
